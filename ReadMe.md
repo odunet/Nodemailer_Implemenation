@@ -1,4 +1,4 @@
-# Implemenattion of Nodemailer in NodeJS
+# Implemenation of Nodemailer in NodeJS
 
 ## Summary
 This implemenation is done using two methods:
